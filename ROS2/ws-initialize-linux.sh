@@ -49,4 +49,4 @@ code --install-extension ms-vscode.cmake-tools                  # CMake Tools
 code --install-extension streetsidesoftware.code-spell-checker  # Code Spell Checker
 
 # Restart system
-sudo reboot
+# sudo reboot
